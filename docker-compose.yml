@@ -1,8 +1,0 @@
-version: "3"
-services:
-  java:
-    container_name: gittest
-    build: .
-    image: gittest
-    ports:
-      - "8081:8081"

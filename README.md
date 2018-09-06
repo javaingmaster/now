@@ -1,1 +1,1 @@
-# now
+# 运行start.sh

@@ -1,3 +1,3 @@
 #!/bin/bash
-sleep 2
-java -jar /java.jar
+mvn clean install
+java -jar target/testgit-0.0.1-SNAPSHOT.jar
